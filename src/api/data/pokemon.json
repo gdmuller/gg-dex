@@ -1,0 +1,26 @@
+[
+  {
+    "id": "001",
+    "name": "bulbasaur",
+    "type": ["Grass", "Poison"],
+    "img": "./images/gen_01/001.png"
+  },
+  {
+    "id": "002",
+    "name": "venusaur",
+    "type": ["Grass"],
+    "img": "./images/gen_01/002.png"
+  },
+  {
+    "id": "003",
+    "name": "venusaur",
+    "type": ["Grass"],
+    "img": "./images/gen_01/003.png"
+  },
+  {
+    "id": "004",
+    "name": "Charmander",
+    "type": ["Fire"],
+    "img": "./images/gen_01/004.png"
+  }
+]
